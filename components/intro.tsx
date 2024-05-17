@@ -30,7 +30,7 @@ export default function Intro() {
           }}
         >
           <Image 
-            src="https://www.lamclara.com/docs/img/pfp.jpg"
+            src="/clara-pfp.jpg"
             alt="Clara Lam" 
             width="192"
             height="192"
